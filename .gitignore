@@ -1,0 +1,6 @@
+.idea
+.git
+docker-compose.yaml
+Dockerfile
+profiles_api/__pycache__
+profiles_api/migrations
