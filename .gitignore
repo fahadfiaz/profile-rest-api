@@ -1,6 +1,6 @@
 .idea
 .git
-docker-compose.yaml
+docker-compose.yml
 Dockerfile
 profiles_api/__pycache__
 profiles_api/migrations
